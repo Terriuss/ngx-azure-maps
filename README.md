@@ -44,7 +44,7 @@ export class AppModule { }
 #### 2. Use the directive:
 
 ```html
-<azure-maps [value]="address"></azure-maps>
+<azure-maps-autocomplete [value]="address"></azure-maps>
 ```
 
 #### Properties:
