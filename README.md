@@ -1,6 +1,8 @@
 # ngx-azure-maps
 An angular library for microsoft azure maps functionalities like autocomplete
 
+[![npm version](https://badge.fury.io/js/ngx-azure-maps.svg)](https://badge.fury.io/js/ngx-azure-maps)
+
 ## Installation
 
 Install the npm module:
